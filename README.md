@@ -25,5 +25,6 @@
 ---
 
 ## 🌐 Contato
-[![Linkedin Badge]([https://img.shields.io/badge/-Everton%20Estêvão-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evertonestevao/](https://www.linkedin.com/in/everton-estev%C3%A3o-78216292/))]([https://www.linkedin.com/in/evertonestevao/](https://www.linkedin.com/in/everton-estev%C3%A3o-78216292/))
-[![Gmail Badge](https://img.shields.io/badge/-everton.efdsilva@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:everton.efdsilva@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/-Everton%20Estêvão-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/everton-estev%C3%A3o-78216292/)
+[![Gmail](https://img.shields.io/badge/-everton.efdsilva@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:everton.efdsilva@gmail.com)
