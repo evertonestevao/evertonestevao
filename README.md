@@ -2,7 +2,7 @@
 
 💻 Programador Full Stack | Sempre curioso e aprendendo coisas novas  
 🚀 Planejo soluções que ajudam o time a entregar com eficiência  
-🎓 Professor de TI | Adoro ensinar e compartilhar conhecimento de forma divertida
+🎓 Professor de TI | Adoro ensinar e compartilhar conhecimento de forma eficiente
 
 ---
 
