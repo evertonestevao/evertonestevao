@@ -24,6 +24,11 @@
 
 ---
 
+## 🐍 GitHub Snake
+![GitHub Snake](dist/github-snake.gif)
+
+---
+
 ## 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-Everton%20Estêvão-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/everton-estev%C3%A3o-78216292/)
