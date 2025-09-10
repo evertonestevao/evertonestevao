@@ -24,10 +24,6 @@
 
 ---
 
-## 🐍 GitHub Snake
-![GitHub Snake](dist/github-snake.gif)
-
----
 
 ## 🌐 Contato
 
