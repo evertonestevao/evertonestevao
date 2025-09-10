@@ -7,7 +7,7 @@
 ---
 
 ## 🖥️ Linguagens e frameworks
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonestevao&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonestevao&layout=compact&theme=transparent)
 
 ---
 
